@@ -1,0 +1,18 @@
+.avatar{
+    width: 100%;
+}
+
+#info{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navbar{
+    color:white;
+}
+
+#navbar1{
+    font-size: 20px;
+    text-shadow: 1px 1px 1px black;
+    font-weight: bold;
+}
